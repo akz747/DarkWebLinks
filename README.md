@@ -9,5 +9,5 @@ Check if your favorite darkmarket is up.
 
 # Masterlist
 
-<li class="dark-Online"> ONLINE</li> http://masterlistwtfzgt.onion
+<li class="dark-Online">ONLINE</li> http://masterlistwtfzgt.onion
 <li class="dark-Online"> ONLINE</li> http://22222222222qerho.onion

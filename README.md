@@ -4,7 +4,9 @@ Check if your favorite darkmarket is up.
 
 
 # Dread 
-<font color="red"> OFFLINE http://dreadditevelidot.onion</font>
+<li class="status0">
+  OFFLINE http://dreadditevelidot.onion
+</li>
 
 # Masterlist
 

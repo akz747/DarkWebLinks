@@ -4,7 +4,7 @@ Check if your favorite darkmarket is up.
 
 
 # Dread 
-<li class="status0">
+<li class="dark-online">
   OFFLINE http://dreadditevelidot.onion
 </li>
 

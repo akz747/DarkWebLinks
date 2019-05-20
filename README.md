@@ -3,4 +3,4 @@ Check if your favorite darkmarket is up.
 
 
 # Dread 
-```ruby offline``` http://dreadditevelidot.onion
+<font color="red"> OFFLINE </font>  http://dreadditevelidot.onion

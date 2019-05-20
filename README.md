@@ -3,7 +3,7 @@ Check if your favorite darkmarket is up.
 
 
 # Dread 
-<font color="red"> OFFLINE </font>  http://dreadditevelidot.onion
+<font color="red"> OFFLINE http://dreadditevelidot.onion</font>
 
 # Masterlist
 

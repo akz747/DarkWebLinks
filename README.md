@@ -8,5 +8,5 @@ Check if your favorite darkmarket is up.
   OFFLINE http://dreadditevelidot.onion
 
 # Masterlist
-< span style="color:green;font-size:15px" > ONLINE < /span> http://masterlistwtfzgt.onion
-< span style="color:green;font-size:15px" > ONLINE < /span> http://22222222222qerho.onion
+<span style="color:green;font-size:15px"> ONLINE </span> http://masterlistwtfzgt.onion
+<span style="color:green;font-size:15px"> ONLINE </span> http://22222222222qerho.onion

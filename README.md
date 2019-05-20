@@ -4,11 +4,10 @@ Check if your favorite darkmarket is up.
 
 
 # Dread 
-<li class="dark-Online">
+
   OFFLINE http://dreadditevelidot.onion
-</li>
 
 # Masterlist
 
-<font color="green"> ONLINE </font> http://masterlistwtfzgt.onion
-<font color="green"> ONLINE </font> http://22222222222qerho.onion
+<li class="dark-Online"> ONLINE</li> http://masterlistwtfzgt.onion
+<li class="dark-Online"> ONLINE</li> http://22222222222qerho.onion

@@ -8,32 +8,32 @@
   </head>
   <body>
     <font size="20">NightMare Market</font>
-            http://7vm2cbvh52fx4lgm.onion
+            http://7vm2cbvh52fx4lgm.onion<br>
     <font size="20">Dread Forum</font>
-           http://dreadditevelidot.onion
+           http://dreadditevelidot.onion<br>
     <font size="20">XMR.to</font>
-            http://xmrto2bturnore26.onion
+            http://xmrto2bturnore26.onion<br>
     <font size="20">The Pirate Bay</font>
-           http://uj3wazyk5u4hnvtk.onion   
+           http://uj3wazyk5u4hnvtk.onion<br>   
     <font size="20">Duck Duck Go</font>
-           http://3g2upl4pq6kufc4m.onion
+           http://3g2upl4pq6kufc4m.onion<br>
     <font size="20">Torum</font>
-           http://torum6uvof666pzw.onion
+           http://torum6uvof666pzw.onion<br>
     <font size="20">0-Day Forum</font>
-           http://Qzbkwswfv5k2oj5d.onion
+           http://Qzbkwswfv5k2oj5d.onion<br>
     <font size="20">WannaBuy RPD</font>
-            http://wannabuyaynozvmz.onion
+            http://wannabuyaynozvmz.onion<br>
     <font size="20">Rutor Forum</font>
-           http://Rutorzzmfflzllk5.onion
+           http://Rutorzzmfflzllk5.onion<br>
     <font size="20">Protonmail</font>
-            http://protonirockerxow.onion
+            http://protonirockerxow.onion<br>
     <font size="20">Wiki Leaks</font>
-           http://wlchatc3pjwpli5r.onion  
+           http://wlchatc3pjwpli5r.onion<br>  
     <font size="20">Dark.fail</font>
-           http://darkfailllnkf4vf.onion
+           http://darkfailllnkf4vf.onion<br>
     <font size="20">Ny Times/h1>
-           http://nytimes3xbfgragh.onion
+           http://nytimes3xbfgragh.onion<br>
     <font size="20">FaceBook</font>
-           http://facebookcorewwwi.onion
+           http://facebookcorewwwi.onion<br>
   </body>
 </html>

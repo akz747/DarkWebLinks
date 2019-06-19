@@ -22,7 +22,5 @@ Check if your favorite darkmarket is up.
 # Cryptonia Market
 <span style="color:green;font-size:20px"> ONLINE </span> http://cryptofpr4ysjeez.onion<br>
 
-# Hydra
-
 # Cannazon Market
 <span style="color:red;  font-size:20px"> ONLINE </span>  http://cannazon4gbjluus.onion<br>

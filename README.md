@@ -8,17 +8,17 @@
     <link rel="stylesheet" href="/hacker/assets/css/style.css?v=e193e8e825d1db5b6c1761cb8026a0d6f0e29142">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Hacker theme | Hacker is a theme for GitHub Pages.</title>
+<title>Practical Onions</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Hacker theme" />
+<meta property="og:title" content="Dark" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Hacker is a theme for GitHub Pages." />
-<meta property="og:description" content="Hacker is a theme for GitHub Pages." />
+<meta name="description" content="A dir to find all the popular dark web onions." />
+<meta property="og:description" content="Dark web Market Links" />
 <link rel="canonical" href="https://pages-themes.github.io/hacker/" />
 <meta property="og:url" content="https://pages-themes.github.io/hacker/" />
-<meta property="og:site_name" content="Hacker theme" />
+<meta property="og:site_name" content="Practical Onions links" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"https://pages-themes.github.io/hacker/","name":"Hacker theme","description":"Hacker is a theme for GitHub Pages.","headline":"Hacker theme","@context":"http://schema.org"}</script>
+{"@type":"WebSite","url":"https://impracticaljokers.github.io/","name":"Practical Onions","description":"A site to get darkweb markets like Empire, Nightmare market, dread and other onion sites.","headline":"DarkWeb Links","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>

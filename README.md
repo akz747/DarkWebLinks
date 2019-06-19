@@ -9,17 +9,6 @@
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>Practical Onions</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Dark" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A dir to find all the popular dark web onions." />
-<meta property="og:description" content="Dark web Market Links" />
-<link rel="canonical" href="https://pages-themes.github.io/hacker/" />
-<meta property="og:url" content="https://pages-themes.github.io/hacker/" />
-<meta property="og:site_name" content="Practical Onions links" />
-<script type="application/ld+json">
-{"@type":"WebSite","url":"https://impracticaljokers.github.io/","name":"Practical Onions","description":"A site to get darkweb markets like Empire, Nightmare market, dread and other onion sites.","headline":"DarkWeb Links","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
   </head>
 

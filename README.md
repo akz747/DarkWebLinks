@@ -31,7 +31,7 @@
              <font color="green">http://wlchatc3pjwpli5r.onion</font><br>  
       <font size="20">Dark.fail</font><br>
              <font color="green">http://darkfailllnkf4vf.onion</font><br>
-      <font size="20">Ny Times</h1><br>
+      <font size="20">Ny Times</font><br>
              <font color="green">http://nytimes3xbfgragh.onion</font><br>
       <font size="20">FaceBook</font><br>
              <font color="green">http://facebookcorewwwi.onion</font><br>

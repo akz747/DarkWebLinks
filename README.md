@@ -10,6 +10,6 @@
     <h1 id="header-1">NightMare Market</h1>
             http://7vm2cbvh52fx4lgm.onion
     <h1 id="header-1">Dread Forum</h1>
-           
+           http://dreadditevelidot.onion
   </body>
 </html>

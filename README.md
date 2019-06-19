@@ -14,24 +14,6 @@
 
   <body>
 
-    <header>
-      <div class="container">
-        <h1>Hacker theme</h1>
-        <h2>Hacker is a theme for GitHub Pages.</h2>
-
-        <section id="downloads">
-          
-            <a href="https://github.com/pages-themes/hacker/zipball/master" class="btn">Download as .zip</a>
-            <a href="https://github.com/pages-themes/hacker/tarball/master" class="btn">Download as .tar.gz</a>
-          
-          <a href="https://github.com/pages-themes/hacker" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="highlighter-rouge">keyword</code>.</p>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 

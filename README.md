@@ -1,8 +1,10 @@
 <html lang="en-US">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+          <meta property="og:title" content="Practical Onions Links" />
+          <meta name="twitter:title" content="Practical Onions Links" />
+          <meta name="description" content="Includes the most current links to markets and vendors shops. Also includes some of the more popular vendor's public key as well market public key">
     <link rel="stylesheet" href="/hacker/assets/css/style.css?v=e193e8e825d1db5b6c1761cb8026a0d6f0e29142">
     <title>Practical Onions</title>
   </head>

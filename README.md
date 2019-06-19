@@ -8,32 +8,32 @@
   </head>
   <body>
     <font size="20">NightMare Market</font><br><br>
-            http://7vm2cbvh52fx4lgm.onion<br>
+          <font color="green">http://7vm2cbvh52fx4lgm.onion</font><br>
     <font size="20">Dread Forum</font><br>
-           http://dreadditevelidot.onion<br>
+          <font color="green">http://dreadditevelidot.onion</font><br>
     <font size="20">XMR.to</font><br>
-            http://xmrto2bturnore26.onion<br>
+          <font color="green">http://xmrto2bturnore26.onion</font><br>
     <font size="20">The Pirate Bay</font><br>
-           http://uj3wazyk5u4hnvtk.onion<br>   
+          <font color="green">http://uj3wazyk5u4hnvtk.onion</font><br>   
     <font size="20">Duck Duck Go</font><br>
-           http://3g2upl4pq6kufc4m.onion<br>
+          <font color="green">http://3g2upl4pq6kufc4m.onion</font><br>
     <font size="20">Torum</font><br>
-           http://torum6uvof666pzw.onion<br>
+          <font color="green">http://torum6uvof666pzw.onion</font><br>
     <font size="20">0-Day Forum</font><br>
-           http://Qzbkwswfv5k2oj5d.onion<br>
+          <font color="green">http://Qzbkwswfv5k2oj5d.onion</font><br>
     <font size="20">WannaBuy RPD</font><br>
-            http://wannabuyaynozvmz.onion<br>
+          <font color="green">http://wannabuyaynozvmz.onion</font><br>
     <font size="20">Rutor Forum</font><br>
-           http://Rutorzzmfflzllk5.onion<br>
+           <font color="green">http://Rutorzzmfflzllk5.onion</font><br>
     <font size="20">Protonmail</font><br>
-            http://protonirockerxow.onion<br>
+           <font color="green">http://protonirockerxow.onion</font><br>
     <font size="20">Wiki Leaks</font><br>
-           http://wlchatc3pjwpli5r.onion<br>  
+           <font color="green">http://wlchatc3pjwpli5r.onion</font><br>  
     <font size="20">Dark.fail</font><br>
-           http://darkfailllnkf4vf.onion<br>
+           <font color="green">http://darkfailllnkf4vf.onion</font><br>
     <font size="20">Ny Times/h1>
-           http://nytimes3xbfgragh.onion<br>
+           <font color="green">http://nytimes3xbfgragh.onion</font><br>
     <font size="20">FaceBook</font><br>
-           http://facebookcorewwwi.onion<br>
+           <font color="green">http://facebookcorewwwi.onion</font><br>
   </body>
 </html>

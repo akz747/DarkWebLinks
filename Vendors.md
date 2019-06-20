@@ -10,10 +10,10 @@
   </head>
     <body>
 	    <p>
-          <a href="https://michael-meade.github.io/" style="margin-right:20px">Home</a>
-          <a href="https://impracticaljokers.github.io/Vendors" style="margin-right:20px">Vendors</a>
-          <a href="https://impracticaljokers.github.io/Markets" style="margin-right:20px">Markets</a>
-      </p
-       [Vendy McVendface](vendors/VendyMcVendyFace.html).
+          	<a href="https://michael-meade.github.io/" style="margin-right:20px">Home</a>
+          	<a href="https://impracticaljokers.github.io/Vendors" style="margin-right:20px">Vendors</a>
+          	<a href="https://impracticaljokers.github.io/Markets" style="margin-right:20px">Markets</a>
+	  </p><br>
+       [Vendy McVendface](./vendors/VendyMcVendyFace.html).<br>
       <font size="5">Vendy McVendface</font><br><br>
 </html>

@@ -10,13 +10,13 @@
   </head>
     <body>
 	    <p>
-          	<a href="https://michael-meade.github.io/" style="margin-right:20px">Home</a>
+          	<a href="https://impracticaljokers.github.io/" style="margin-right:20px">Home</a>
           	<a href="https://impracticaljokers.github.io/Vendors" style="margin-right:20px">Vendors</a>
           	<a href="https://impracticaljokers.github.io/Markets" style="margin-right:20px">Markets</a>
 	  </p><br>
-	    <a href="./vendors/VendyMcVendyFace.html">Vendy McVendface</a><br>
-	    <a href="./vendors/VendyMcVendyFace.html">CartKing</a><br>
-	    <a href="./vendors/TreesNTreats.html">TrickNTreats</a><br>
-	    <a href="./vendors/THClear.html">THClear</a><br>
+	    <a href="./vendors/VendyMcVendyFace.txt">Vendy McVendface</a><br>
+	    <a href="./vendors/VendyMcVendyFace.txt">CartKing</a><br>
+	    <a href="./vendors/TreesNTreats.txt">TrickNTreats</a><br>
+	    <a href="./vendors/THClear.txt">THClear</a><br>
 	    
 </html>

@@ -11,9 +11,9 @@
 	<body>
 		<p> Only vendors that have proven to be legit and trustworthy will be added.</p>
 		<p>
-			<a href="https://impracticaljokers.github.io/" style="margin-right:20px">Home</a>
-          		<a href="https://impracticaljokers.github.io/Vendors" style="margin-right:20px">Vendors</a>
-          		<a href="https://impracticaljokers.github.io/Markets" style="margin-right:20px">Markets</a>
+			<a href="https://impracticaljokers.github.io/DarkWebLinks.html" style="margin-right:20px">Home</a>
+          		<a href="https://impracticaljokers.github.io/Vendors.html" style="margin-right:20px">Vendors</a>
+          		<a href="https://impracticaljokers.github.io/Markets.html" style="margin-right:20px">Markets</a>
 	  	</p><br>
 	    <a href="./vendors/VendyMcVendyFace.txt">Vendy McVendface</a><br>
 	    <a href="./vendors/VendyMcVendyFace.txt">CartKing</a><br>

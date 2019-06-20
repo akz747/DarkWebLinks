@@ -10,9 +10,8 @@
   </head>
     <body>
 	    <p>
-		    <a href="https://michael-meade.github.io/" style="margin-right:20px">Home</a>
-                    <a href="https://impracticaljokers.github.io/Vendors.html" style="margin-right:20px">Vendors</a>
-                    <a href="https://michael-meade.github.io/Markets" style="margin-right:20px">Markets</a>
+                    <a href="./Vendors.html" style="margin-right:20px">Vendors</a>
+                    <a href="./Markets" style="margin-right:20px">Markets</a>
 	    </p><br>
       <font size="10">NightMare Market</font><br><br>
             <font color="green">http://7vm2cbvh52fx4lgm.onion</font><br>

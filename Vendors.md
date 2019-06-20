@@ -20,5 +20,4 @@
 	    <a href="./vendors/TreesNTreats.txt">TrickNTreats</a><br>
 	    <a href="./vendors/THClear.txt">THClear</a><br>
 	</body>
-   <body>
 </html>

@@ -14,6 +14,6 @@
           	<a href="https://impracticaljokers.github.io/Vendors" style="margin-right:20px">Vendors</a>
           	<a href="https://impracticaljokers.github.io/Markets" style="margin-right:20px">Markets</a>
 	  </p><br>
-       [Vendy McVendface](./vendors/VendyMcVendyFace.html).<br>
+	    <a href="./vendors/VendyMcVendyFace.html">Vendy McVendface</a>
       <font size="5">Vendy McVendface</font><br><br>
 </html>

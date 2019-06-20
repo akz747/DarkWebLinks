@@ -16,5 +16,7 @@
 	  </p><br>
 	    <a href="./vendors/VendyMcVendyFace.html">Vendy McVendface</a>
 	    <a href="./vendors/VendyMcVendyFace.html">CartKing</a>
+	    <a href="./vendors/TreesNTreats.html">TrickNTreats</a>
+	    <a href="./vendors/THClear.html">THClear</a>
 	    
 </html>

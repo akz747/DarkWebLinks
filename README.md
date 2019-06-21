@@ -14,7 +14,7 @@
                     <a href="./Markets" style="margin-right:20px">Markets</a>
 	    </p><br>
       <font size="10">NightMare Market</font><br><br>
-            <font color="green">http://7vm2cbvh52fx4lgm.onion</font><br>
+            <font color="green">http://nightpdq4skybxad.onion</font><br>
       <font size="10">Dread Forum</font><br>
             <font color="green">http://dreadditevelidot.onion</font><br>
       <font size="10">Empire Market</font><br>

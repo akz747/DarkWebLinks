@@ -10,9 +10,9 @@
   </head>
 	<body>
 		<p>
-			<a href="https://impracticaljokers.github.io/DarkWebLinks.html" style="margin-right:20px">Home</a>
-          		<a href="https://impracticaljokers.github.io/Vendors.html" style="margin-right:20px">Vendors</a>
-          		<a href="https://impracticaljokers.github.io/Markets.html" style="margin-right:20px">Markets</a>
+			<a href="https://impracticaljokers.github.io/DarkWebLinks.md" style="margin-right:20px">Home</a>
+          		<a href="https://impracticaljokers.github.io/Vendors.md" style="margin-right:20px">Vendors</a>
+          		<a href="https://impracticaljokers.github.io/Markets.md" style="margin-right:20px">Markets</a>
 	  	</p><br>
 	    <p> Only vendors that have proven to be legit and trustworthy will be added.</p>
 	    <a href="./vendors/VendyMcVendyFace.txt">Vendy McVendface</a><br>
